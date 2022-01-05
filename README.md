@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Yassinbtka
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning : NETWORK: CCNA/CCNP/COMPTIA A+
+-                             PROGRAMING: PYTHON/C++/C 
+-                             LANG_WEB: HTML/CSS/JS/PHP
+- 💞️ I’m looking to collaborate on programaton and networking
+- 📫 How to reach me :boutchakate.y@gmail.com
 
 <!---
-Yassinbtka/Yassinbtka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+WELCOME 
 --->
